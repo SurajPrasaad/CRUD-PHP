@@ -1,7 +1,7 @@
 <?php
 $serverName = "localhost";
 $userName = "root";
-$password = "";
+$password = "YOUR_DATABASE_PASSWORD";
 $dbName = "crud2";
 
 
